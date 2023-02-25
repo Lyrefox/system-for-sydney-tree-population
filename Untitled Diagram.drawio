@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T23:49:34.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5T-WK6z0EGyzb3hAqZF-" version="20.8.23" type="github"><diagram name="Page-1" id="z7KvOS9ukoj-XgOeXY6J">5Vlbc9o4FP41zOzLZnwDwiMB2nQm2aSBtpt9E/bBaFeWPLLMZX99j2zZxjakdBLqafsU69PR7XznHH0KPXcS7d5LEq/vRQCs51jBrudOe45je66HfzSyz5HhwAChpIExqoA5/R8MaBk0pQEkNUMlBFM0roO+4Bx8VcOIlGJbN1sJVl81JiG0gLlPWBv9QgO1Nqg9GFUdt0DDtVn62hnmHREpjM1JkjUJxPYAcmc9dyKFUPlXtJsA084r/JKPe3eit9yYBK7OGWDBBy8eO/wZ/mF/3VMlr6fOn4aMRO2LA0OA5zdNIdVahIITNqvQGylSHoCe1cJWZXMnRIygjeC/oNTekElSJRBaq4iZ3nxNvdDJoxgoEan04YX9FyFBZAjqBbt+6XCMVBARKLnHcRIYUXRT3wcxIROWduXQR0Fxh45lwtuzDLcmuF3Pqk+R78uMqrjBj4NtVFDG2HewN/hN2BtehL0yMw17fevHsmc2vCEsNUf4MkPvWu8enu57zoChR26WEr9Clbm9iXzgcapwq+N215Qo0A4iHFlycHuWSBVaZxVQYmnKwRDrI1Ypbajtv73k+/oAK4AVSZmeFk/Sj69IKyDr4bZdUwXzmGRRscUb41hobUAq2L0cXO1gKG+cOqlYkK/6ObI9qN8DY7U+KN223T8dQjXyv5dpt4s8RYfJ/d9mfNZ41g30hmlOd4ed071pvWF+O2fm9wlKz87vV5HjtNJw7CshW5Th/R3rzzRiuYF7oyOVola4I0tgjyKhigqOJkuhlIgODMaMhrpDiUbEY1oyymFSqhfrbdKgUdrcQk4d5IB7JAUG1oWc3G85+eHT4vHT4pyiMyEchy51vcH6YvE0WoLUJU1mJQxlJ25JkSXTFmKlt8J9CSTJ2pvMVtEIro5MPf+sq5jYciZIoM1jTSFhndcxr8GgMzpSxfpHKBxdisLrn1xsDM8tRtZxYl6rFZtq4wdrxVG3d1B17Twf9l3+Djqb9i7voOEJKTifPX2ePZ1TJG8JDxg+lB1rQpif6k0Lrpug/M6Lme30a7HvDdvXkT06JsmaSfJmHrc7eTuV+WD3utJkhRK4+KPrdfRYrYyYjhdjnRKLh6fZORmxojsIsoNmykC/d3yRamR6U+RFc8wfE5abxBJWIGU2wSoTGmRDKCNLyqja57MVCkMrjgR0qU9jbcizCUBmLy2OZHSdfs2rx+tcS9ht0X27WDzOW67CQ6u6PxIlxX8omJlW4FMuOGRcM9aAiJHcPjoJDsV6ocUjGgRZVh8joE7RG3AwaAhyq10Bj71J3Ysx4P5uDJQRXmSB0zUFXouC+cc7BD6mYKb/JYlwvRP/d+uMiLb8Ku6BW5EoysNfl4xSdhkyBpfLCmxWv3bkz5rqNyN39hU=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-25T23:51:20.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="94vUVSGKFhepQKh93dNQ" version="20.8.23" type="github">
+  <diagram name="Page-1" id="z7KvOS9ukoj-XgOeXY6J">
+    <mxGraphModel dx="1434" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dgxobwtUCYuGqm4tA58e-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="740" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0eI4pA2nYeZlNMitr8D2-1" target="0eI4pA2nYeZlNMitr8D2-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="217.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0eI4pA2nYeZlNMitr8D2-1" target="0eI4pA2nYeZlNMitr8D2-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="377.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-1" value="WEB FORM&lt;br&gt;&lt;br&gt;Inputs:&lt;br&gt;Date range, output format, growth rate&lt;br&gt;&lt;br&gt;Growth rate default 2%p.a" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="160" width="160" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0eI4pA2nYeZlNMitr8D2-2" target="0eI4pA2nYeZlNMitr8D2-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="187.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-5" value="OUTPUT&lt;br&gt;&lt;br&gt;Can be a number or graph/table of increase over time.&lt;br&gt;CSV download optional" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="172.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0eI4pA2nYeZlNMitr8D2-7" target="0eI4pA2nYeZlNMitr8D2-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="417.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0eI4pA2nYeZlNMitr8D2-7" target="0eI4pA2nYeZlNMitr8D2-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-7" value="WEB SERVER&lt;br&gt;&lt;br&gt;Handles Calculations etc" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="375" y="347.5" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0eI4pA2nYeZlNMitr8D2-10" target="0eI4pA2nYeZlNMitr8D2-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-10" value="DATA STORE&lt;br&gt;&lt;br&gt;fixed table, coud DB etc&lt;br&gt;(Cloud preferred for availability, ease of set up and performance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="372.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-12" value="HTTPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="177.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-13" value="HTTPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="297.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-14" value="SQL Query" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="377.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0eI4pA2nYeZlNMitr8D2-17" value="Cloud Hosting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="497.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
